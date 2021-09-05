@@ -9,7 +9,7 @@ cn = 'cyan'
 # banner
 system('clear')
 system('figlet -f ./usaflag "CORONA" | lolcat -a -d 2')
-system('echo "               Covid Tracker by comradesec" | lolcat -a -d 10')
+system('echo "               Covid Tracker by sarim" | lolcat -a -d 10')
 
 # Tracking cases
 corona = Covid()
@@ -23,5 +23,5 @@ for cont in case:
 system('echo')
 system('echo "WEAR MASK :D BE SAFE!!!" | lolcat -a -d 40')
 print()
-system('echo "I hope you liked it Follow  [ COMRADESEC ] in GITHUB For More COOL stuffs :D " | lolcat -a -d 120 ')
+system('echo "I hope you liked it Follow  [ SARIM ] in GITHUB For More COOL stuffs :D " | lolcat -a -d 120 ')
 print()
